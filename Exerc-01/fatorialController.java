@@ -1,4 +1,3 @@
-package fatorial;
 /**
  *
  * @author arthur.purcino
