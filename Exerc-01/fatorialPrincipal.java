@@ -1,4 +1,4 @@
-package fatorial;
+package view;
 /**
  *
  * @author arthur.purcino
