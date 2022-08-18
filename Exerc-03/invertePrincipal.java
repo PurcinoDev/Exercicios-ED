@@ -1,4 +1,4 @@
-package inverteChar;
+package view;
 /**
  *
  * @author arthur.purcino
